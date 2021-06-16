@@ -157,7 +157,7 @@ def runn_noobs():
   \ V  V / (_| |  / |
    \_/\_/ \__,_|\___|_| \033[91;1m
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+             Powered by:\033[97m 
       """
 
 
