@@ -48,11 +48,11 @@ def banner():
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
     print WW+"  |            MOD BY: wael [المهيب]             |"
-    print GL+"  |              
+    print GL+"  |                                          |"
     print WW+"  |        telegram  : @X888E            |"
     print Y+"  |             INSTAGRAM: d9p0              |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |                 
+    print GL+"  |                                              |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
     print GL+"  |•••••••••   HACK FACEBOOK  ^_^   •••••••••|"
